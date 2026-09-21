@@ -1,17 +1,42 @@
-# officer_app
+# MaapSetu Officer App
 
-A new Flutter project.
+MaapSetu is a digital platform designed to streamline the verification and certification workflow of weighing and measuring instruments.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Officer authentication
+- Officer dashboard
+- Assignment management
+- Instrument details
+- Field verification
+- Evidence collection
+- Location capture
+- Verification history
+- Certificate management
+- Notifications
 
-A few resources to get you started if this is your first Flutter project:
+## Technology Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- Node.js
+- Express.js
+- PostgreSQL
+- REST APIs
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Application Workflow
+
+1. Officer logs in
+2. Officer views assigned applications
+3. Officer checks instrument details
+4. Officer performs field verification
+5. Evidence and location are captured
+6. Verification result is submitted
+7. Certificate is generated
+8. Verification history is maintained
+
+## Project
+
+This application is part of the MaapSetu / Automated Legal Metrology Verification Engine (ALMVE) project.
