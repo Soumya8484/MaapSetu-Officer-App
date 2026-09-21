@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12868337402",
+    "project_id": "legal-metrology-project",
+    "storage_bucket": "legal-metrology-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12868337402:android:6b1ef38cbd13cf65e81343",
+        "android_client_info": {
+          "package_name": "com.example.officer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWxDrUC2wRX_-p2sRNhQFOXp0J5I-hAqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
